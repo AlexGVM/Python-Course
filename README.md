@@ -1,1 +1,1 @@
-# Python-Course
+# Python Course in Anaconda and Spyder
